@@ -1,1 +1,3 @@
 emotion_model/model.safetensors
+._pycache__
+.ipynb_checkpoints
